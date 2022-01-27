@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+// import {useAuth} from '@paretointel/react-component-library';
 
 ReactDOM.render(
   <React.StrictMode>
