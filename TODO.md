@@ -31,7 +31,7 @@ Initial setup of this project’s git repo will involve the following:
     - [x] react-scroll
     - [x] file-saver
     - [x] streamsaver
-  - [ ] eslint (configure)
+  - [x] eslint (configure)
   - [ ] axios
   - [ ] react-router-dom
 
